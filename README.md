@@ -1,6 +1,6 @@
 # To do app with Cypress TDD
 
-Having recently been introduced to Cypress, I wanted to take a course and build thing use a TDD approach. Having developed a few React apps now, I can absolutely see the need for having and building on a suite of tests. The Cypress website has the perfect <a href="https://docs.cypress.io/examples/examples/tutorials.html">video tutorial</a> for getting started. Cypress is the first testing framework that feels natural to me and I am very keen to implement it into my workflow.
+Having recently been introduced to Cypress, I wanted to take a course and build thing use a TDD approach. Having developed a few React apps now, I can absolutely see the need for having and building on a suite of tests. The Cypress website had the perfect <a href="https://docs.cypress.io/examples/examples/tutorials.html">video tutorial</a> for getting started so I followed along with it. Cypress is the first testing framework that feels natural to me and I am very keen to implement it into my workflow.
 
 ## Setup
 
