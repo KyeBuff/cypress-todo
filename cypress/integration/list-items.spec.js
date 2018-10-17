@@ -34,7 +34,7 @@ describe('List items', () => {
 			.should('have.length', 3);
 	});
 
-	it.only('Marks an incomplete item as complete', () => {
+	it('Marks an incomplete item as complete', () => {
 		cy.fixture('todos')
 			.then(todos => {
 				const target = Cypress._.head(todos);
