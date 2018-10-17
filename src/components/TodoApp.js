@@ -75,7 +75,7 @@ export default class TodoApp extends Component {
               <TodoList 
                 todos={filterTodos(match.params.filter,this.state.todos)} 
                 onRemove={this.onRemove} 
-                pdateTodo={this.updateTodo}
+                updateTodo={this.updateTodo}
               />
             )} />
           </section>

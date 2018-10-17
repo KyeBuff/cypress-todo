@@ -2,6 +2,7 @@
   "name": "cypress-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://kyebuffery.co.uk/to-do",
   "dependencies": {
     "axios": "^0.18.0",
     "cypress": "^3.1.0",
